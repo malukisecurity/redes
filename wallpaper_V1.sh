@@ -1,14 +1,11 @@
 #!/bin/bash
-#-----------------------#
-# Nome: Wallpaper_V1.sh #
-# Criador: Welinton_dev #
-# Data 07/05/2025       #
-# Versão 0.0.0.1        #
-#-----------------------#
-
-# Autor: Técnico de TI Fulano
-# Descrição: Script para definir e bloquear o wallpaper nos ambientes GNOME, KDE, XFCE, Cinnamon e MATE.
-# Observação: Pode precisar ser executado como root, dependendo do ambiente e permissões.
+#--------------------------------------------------#
+# Nome: Wallpaper_V1.sh                            #
+# Criador: Welinton_dev                            #
+# Data 07/05/2025                                  #
+# Versão 0.0.0.1                                   #
+# Descrição: Script serve parabloquear o wallpaper # # nos ambientes GNOME, KDE, XFCE, Cinnamon e MATE. #
+#--------------------------------------------------#
 
 WALLPAPER_PATH="/usr/share/backgrounds/imagem-fixa.jpg"
 
